@@ -1,0 +1,17 @@
+.forms-container {
+    text-align: center;
+    margin-top: 5%;
+}
+
+div.forms-container p {
+    margin-top: 20px;
+}
+
+div.signup-container {
+    margin-left: 25%;
+    margin-top: 5%;
+}
+
+div.signup-container p {
+    margin-top: 20px;
+}
